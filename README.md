@@ -1,7 +1,7 @@
 # Ticket Booking System
 
 ## Overview
-This is a simple web-based movie ticket booking system that allows users to select the number of tickets they want to book and calculates the total price, including a discount for bulk purchases.
+This simple web-based movie ticket booking system allows users to select the number of tickets they want to book and calculate the total price, including a discount for bulk purchases.
 
 ## Features
 - Users can book up to 5 tickets at a time.
@@ -16,18 +16,18 @@ This is a simple web-based movie ticket booking system that allows users to sele
 ## Technologies Used
 - **HTML**: For structuring the web page.
 - **CSS**: For styling the web page.
-- **JavaScript**: For handling ticket booking logic and calculations.
+- **JavaScript**: This is for handling ticket booking logic and calculations.
 
 ## Installation & Setup
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/ticket-booking.git
+   git clone https://github.com/Srikathyayini/TicketBooking.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd ticket-booking
+   cd TicketBooking
    ```
-3. Open `index.html` in a web browser.
+3. Open `bookmovieticket.html` in a web browser.
 
 ## File Structure
 ```
